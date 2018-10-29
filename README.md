@@ -1,3 +1,3 @@
 # typeracer
 game 
-Anastasija Blagopveščenskaja Prif-16/1
+Anastasija Blagoveščenskaja Prif-16/1
